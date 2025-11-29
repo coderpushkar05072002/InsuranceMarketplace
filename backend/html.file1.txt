@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mera Pehla Project</title>
+  </head>
+  <body>
+    <h1>Welcome Bhai!</h1>
+    <button onclick="alert('Hello Bhai! Project chal gaya!')">
+      Click Me
+    </button>
+  </body>
+</html>
